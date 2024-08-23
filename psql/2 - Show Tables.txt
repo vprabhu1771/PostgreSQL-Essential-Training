@@ -1,0 +1,5 @@
+Connect PostgreSQL via psql Shell
+
+your_database_name=# \dt
+
+\dt command from the PostgreSQL command prompt to show tables in the your database

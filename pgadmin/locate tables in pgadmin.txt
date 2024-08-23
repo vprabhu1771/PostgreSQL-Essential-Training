@@ -1,0 +1,9 @@
+open pgadmin -> select PostgreSQL Server 
+
+expand databases -> expand your_database
+
+expand schemas -> expand public
+
+expand tables
+
+now you can find your list of your tables
